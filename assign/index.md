@@ -20,8 +20,8 @@ Assignment | Due
 [Assignment 5: Milestone 3](assign05.html) | Wednesday, 4-28-2021 (during class period via Zoom)
 [Assignment 6: Draft Technical Report](assign06.html) | Wednesday, 5-5-2021 (by Noon in your Google Drive)
 [Assignment 6: Milestone 4](assign06.html) | Monday, 5-10-2021 (12:45p to 2:45p via Zoom)
+[Assignment 6: Final Technical Report](finalreport.html) and Team Posters | Friday, 5-14-2021 (by Noon in PDF form in your Google Drive and via email)
 [Final Peer Evaluations](PeerEval-RadioTelescope-Sp21-final.pdf) | Friday, 5-14-2021 (by Noon in PDF form via email)
-[Assignment 6: [Final Technical Reports](finalreport.html) and Team Posters | Friday, 5-14-2021 (by Noon in PDF form in your Google Drive and via email)
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->
