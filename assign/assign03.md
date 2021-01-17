@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Assignment 3: Milestone 2"
+title: "Assignment 4: Milestone 2"
 ---
 
 Due: [See the Assignments page for due dates](../assign/index.html)
@@ -16,14 +16,14 @@ To facilitate discussion of your design, you should be prepared to present a UML
 
 In addition, you should document your individual contributions to the project.  If you are working on an individual project, you don't need to do anything special, since your commit history will be sufficient.  If you are working on a team project, your commit history can be sufficient if most of your contributions are associated with your user identity.  If some substantial fraction of your contributions are *not* associated with your user identity (for example, because you participated in pair programming, and most of your contributions were commited by a teammate), then you should keep a detailed log of your contributions and the associated code commits.
 
-Your second task is to document requirements to be addressed in [Milestone 3](assign04.html).  You should create a new milestone (i.e., for Milestone 3) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 3.
+Your second task is to document requirements to be addressed in [Milestone 3](assign05.html).  You should create a new milestone (i.e., for Milestone 3) in your issue tracker, document requirements as issues in the form of use cases or user stories, and associate the issues with Milestone 3.
 
-Your third task is **Midterm Self/Peer Evaluation:** Saturday, April 4th, by 7:00 am via email to Professor Hake.
+Your third task is to fill out and submit your midterm peer evaluations.
 
 # Deliverables
 You will be working on all milestones in coordination with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
 
-You will need to complete the **[Midterm Self/Peer Evaluation](PeerReview.pdf) form**.  If you are working on an individual project, you can leave the sections where you would evaluate your teammates blank.  [Download the MS Word version](PeerReview.docx), fill it out, and submit in PDF format via email to Professor Hake.
+You will need to complete the **[Midterm Self/Peer Evaluation](MidtermPeerEval.pdf) form**.  [Download the MS Word version](MidtermPeerEval.docx), fill it out, and submit in PDF format via email to Professor Hake.
 
 There are no other specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 

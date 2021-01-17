@@ -12,11 +12,13 @@ All Presentations and Demos will be conducted in conjunction with the Radio Tele
 
 Assignment | Due
 ---------- | ---
-[Assignment 1: Initial Proposal](assign01.html) | Wednesday, 2-5-2020 by 7:00am (present in class)
-[Assignment 2: Milestone 1](assign02.html) | Wednesday, 2-26-2020 (5:00 to 7:00pm in KEC 125)
-[Assignment 3: Milestone 2](assign03.html) <br> [Midterm Peer Evaluations](PeerReview.pdf) | Wednesday, 4-1-2020 (5:00 to 7:00pm on-line via Zoom) <br> Saturday, 4-4-20 (by 7:00am in PDF form via email)
-[Assignment 4: Milestone 3](assign04.html) | Wednesday, 4-22-2020 (5:00 to 7:00pm on-line via Zoom)
-[Assignment 6: Milestone 4](assign06.html) <br> [Final Peer Evaluations](PeerReview.pdf) <br> [Final Technical Reports](finalreport.html) and Team Posters | Wednesday, 5-6-2020 (5:00 to 7:00p on-line via Zoom) <br> Saturday, 5-9-2020 (by Noon in PDF form via email) <br> Wednesday, 5-13-2020 (by Noon in PDF form via email)
+[Assignment 1: Initial Proposal](assign01.html) | Wednesday, 2-10-2021 by Noon **(each team will present its proposal in class)**
+[Assignment 2: Weekly Journal Entries](assign02.html) | Every Wednesday, by Noon, covering your preceding week's activities, accomplishments, challenges, and next week's tasks **(you will also summarize your journal entry during the class period**)
+[Assignment 3: Milestone 1](assign03.html) | Wednesday, 3-3-2021 (during class period via Zoom)
+[Assignment 4: Milestone 2](assign04.html) <br> [Midterm Peer Evaluations](MidtermPeerEval.pdf) | Wednesday, 3-31-2021 (during class period via Zoom) <br> Saturday, 4-3-21 (by Noon in PDF form via email)
+[Assignment 5: Milestone 3](assign05.html) | Wednesday, 4-28-2021 (during class period via Zoom)
+[Assignment 6: Draft Technical Report](assign06.html) <br> [Final Technical Reports](finalreport.html) and Team Posters | Wednesday, 5-5-2021 (by Noon in your Google Drive <br> Friday, 5-14-2021 (by Noon in PDF form in your Google Drive and via email)
+[Assignment 6: Milestone 4](assign06.html) <br> [Final Peer Evaluations](FinalPeerEval.pdf) | Monday, 5-10-2021 (12:45p to 2:45p via Zoom) <br> Friday, 5-14-2021 (by Noon in PDF form via email)
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

@@ -15,19 +15,19 @@ There are three deliverables.
 
 ## Proposal description
 
-Using Google Docs, write a short (4-5 page) proposal describing your project.  Describe what problem it is intended to solve, who are the users, what languages/frameworks/technologies you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches.)
+Using Google Docs, write a 4-5 page proposal describing your project.  Describe what problem it is intended to solve, who the users are, what languages/frameworks/technologies you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches, block diagrams, DB schemas, UML, etc.)
 
 <div class="callout">
-<b>Important</b>: Please discuss your project idea with at least one of the instructors before you write the proposal.  We will give you feedback on whether your idea is sufficiently interesting and feasible.
+<b>Important</b>: It is **imperative that you consult with your YCAS clients** to discuss tasks and priorities before you write the proposal.
 </div>
 
 ## Repository and issue tracker
 
-Set up a repository (e.g., on [Github](https://github.com) or [Bitbucket](https://bitbucket.org)) and an issue tracker.  In your proposal document, include a link to the repository.
+Update your project repository (e.g., on [Github](https://github.com) or [Bitbucket](https://bitbucket.org)) and your issue tracker.  In your proposal document, include a link to the repository.
 
 ## Requirements for Milestone 1
 
-Use your issue tracker to document the requirements that you plan to address in [Milestone 1](assign02.html).  Each requirement should be a single issue, written in the form of a user story or use case, with a reasonable amount of detail.  In your issue tracker, create a milestone for Milestone 1 and associate your issues with it.  (Both Github's and Bitbucket's issue trackers support milestones.)
+Update your issue tracker to document the requirements that you plan to address in [Milestone 1](assign03.html).  Each requirement should be a single issue, written in the form of a user story or use case, with a reasonable amount of detail.  In your issue tracker, create a milestone for Milestone 1 and associate your issues with it.  (Both Github's and Bitbucket's issue trackers support milestones.)
 
 # Submitting
 
