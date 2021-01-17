@@ -37,7 +37,7 @@ All information about the course will be posted here.
 
 * **Feb 1** &mdash; Assign01 (proposals) due on Wednesday, 2-10-21 by Noon (present in class).
 
-* **Feb 1** &mdash; Assign02 (weekly journal entries) will be due by Noon EVERY Wednesday (starting 2-10-21), covering the preceding week's activities.  During the weekly stand-up meetings, you will present a summary of your accompishments and progress, challenges, and goals for the coming week.  NOTE: You MUST maintain your weekly journals throughout the ENTIRE semester, even on the weeks in which there are Milestone presentations.
+* **Feb 1** &mdash; Assign02 (weekly journal entries) will be due by Noon EVERY Wednesday (starting 2-10-21), covering the preceding week's activities.  During the weekly stand-up meetings, you will present a summary of your accomplishments and progress, challenges, and goals for the coming week.  NOTE: You MUST maintain your weekly journals throughout the ENTIRE semester, even on the weeks in which there are Milestone presentations.
 
 * **Feb 1** &mdash; Welcome back!  The [Syllabus](syllabus.html) and [Assignments](assign/index.html) pages have a complete overview of the course and what you will be expected to do.
 

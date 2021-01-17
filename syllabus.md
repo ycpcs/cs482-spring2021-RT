@@ -14,15 +14,15 @@ CS 482 - Senior Software Project II<br>YCAS Radio Telescope Project
 
 - [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 101) TBD, or by arrangement
 
-- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Office hours by arrangement via Zoom
+- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Teaching 100% remotely, Office hours by arrangement via Zoom
 
 **Meeting times:**
 
-* CS 482 Project Status Reports and MS Presentations/Demos: Wed, 12:00p to 12:50p in KEC118, Project Workspace, and/or via Zoom
+* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00p to 12:50p in KEC118, Project Workspace, and/or via Zoom
 
-* Engineering Capstone II Status Reportd and MS Presentations/Demos: Fri, 12:00p to 1:15p in KEC 128, Project Workspace, and/or via Zoom
+* Engineering Capstone II Status Reportd and MS Presentations/Demos: Fridays, 12:00p to 1:15p in KEC 128, Project Workspace, and/or via Zoom
 
-* Integrated CS and Engineering Team Meetings: Mon, 12:00p to 1:15p in KEC 118, KEC 128, Project Workspace, and/or via Zoom
+* Integrated CS and Engineering Team Meetings: Mondays, 12:00p to 12:50p / 1:15p in KEC 118, KEC 128, Project Workspace, and/or via Zoom
 
 General Course Description
 ------------------
@@ -31,20 +31,20 @@ This course is an elective course for Computer Science majors. It is a continuat
 
 ### Additional Course Description for YCAS Radio Telescope Project
 
-This semester (Spring 2021) will be a continuation of the work that was accomplished by the five CS481 Radio Telescope teams from Fall 2021 (and the previous Radio Telescope teams).  Those teams continued the design and development of various software components for the York County Astronomical Society (YCAS) Radio Telescope, which is being developed in collaboration with the 2020-2021 Radio Telescope Engineering Capstone team.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
+This semester (Spring 2021) will be a continuation of the work that was accomplished by the five CS481 Radio Telescope teams from Fall 2021 (and the previous Radio Telescope teams), in coordination with the 2020-2021 Radio Telescope Capstone Engineering team.  The Radio Telescope teams will continue the design and development efforts for the various software components for the York County Astronomical Society (YCAS) Radio Telescope.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
 
 There are currently five teams of 1-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The five teams are:<br>
-	* **Team Jupiter:** Control Room Windows Application (C#, .NET, possibly Azure)<br>
-	* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React, JavaScript, Java)<br>
-	* **Team Mercury:** Back-End Server, Database,and AWS<br>
-	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity)<br>
-	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java, JavaScript)<br>
+	* **Team Jupiter:** Control Room Windows Application (C#, .NET, possibly Azure)
+	* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React, JavaScript, Java)
+	* **Team Mercury:** Back-End Server, Database,and AWS
+	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity)
+	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java, JavaScript)
 
-The standard user interface for the Radio Telescope is a web-based GUI.  The mobile application, website, and control room application interface with the Control Room application via the back-end server and database.  The simulation, visualization, and virtuliazation components, (and optionally, an operational scale model of the radio telescope) can all substitute for the physical radio telescope, and will also be used as educational tools by YCAS.
+The standard user interface for the Radio Telescope is a web-based GUI.  The mobile application, website, and control room application interface with the Control Room application via the back-end server and database.  The simulation, visualization, and virtuliazation components, (and optionally, an operational scale model of the radio telescope) can all substitute for the physical radio telescope through a common Radio Telescope interface, and will also be used as educational tools by YCAS.
 
 You will be working in close coordination with the Radio Telescope Engineering Capstone Team.  As such, the leader of each CS Senior Design team is required to attend the Engineering Capstone Team's status meetings and Milestone Presentations and Demos.  Some of the presentations and demos will likely be collaborative efforts betweeen the CS Senior Design Teams and the Engineering Capstone Team.
 
-The Radio Telescope Engineering Capstone Team Drives (Capstone I and II) have been shared with you - you can view all of their accumulated information.  It is not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
+The Radio Telescope Engineering Capstone Team Drives (Capstone I and II) have been shared with you - you can view all of their accumulated information.  Those drives are not, however, open for you to create or edit content.  You may use their work, but whatever content you do use, you must cite or reference the source.
 
 Prerequisites
 -------------
@@ -81,7 +81,7 @@ Your overall grade for the course will be determined as follows:
 	- Technical Report: 20% (Rough Draft: 15%, Final: 5%)
 	- Team Poster:       5%
 	
-- Your individual grade for the course is your project grade multiplied by an individual effort factor determined by all of your peers on the Radio Telescope project (through mid-semester and final peer evaluations), combined with the instructor's input.
+- Your individual grade for the course is your project grade multiplied by an individual effort factor determined by all of your peers on the Radio Telescope project (through mid-semester and final peer evaluations), combined with the instructors' input.
 
 Grades are assigned on a 100-point scale:
 
@@ -111,11 +111,11 @@ The overall grade for the course will be determined by the progress made on the 
 
 **Attendance at every weekly meeting is mandatory**.  If you must miss a meeting, for whatever reason, you must inform your team leader and the instructor as soon as possible.  Note that the course meets three times a week.
 
-One of those meetings is the weekly status meeting (or Milestone presentation).  One or more instructors, plus your YCAS clients will be present for those meetings.
+One of those meetings is the weekly status meeting (or Milestone presentation).  One or more instructors, plus your YCAS clients, will be present for those meetings.
 
-The other two meeting times are reserved for you to accomplish work as a team, as well as interface with the Engineering Capstone team, and attend their status meetings and Milestones.  Attendance at all three meeting times is mandatory.
+The other two meeting times are reserved for you to accomplish work as a team, as well as interface with the Engineering Capstone team, and attend their status meetings and Milestones.  Attendance at all three schedule class meeting times is mandatory.
 
-In addition, you will need to schedule team meeting times outside of the regular class times, as this is your capstone team project course, and the amount of overall effort required to achieve a successful project far exceeds the assigned class times.
+In addition, you will need to schedule team meeting times outside of the regular class times, as this is your capstone team project course, and the amount of overall effort required to achieve a successful project laucnh far exceeds the assigned class times.
 
 ### Academic Integrity
 
