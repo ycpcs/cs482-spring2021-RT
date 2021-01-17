@@ -10,7 +10,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 * Your main task is to demonstrate the final version of your project.  The demonstration should focus on the features addressing the requirements for Milestone 4, but should also incorporate important features from previous milestones in order to give an overall assessment of what your system is capable of.  This presentation will showcase the **final working, Radio Telescope software system, fully integrated with the Radio Telescope control electronics and hardware** for an audience to include YCAS members, the director of York County Parks, faculty members, family and friends of the Radio Telescope team members, students, alumni, and industry partners.  It will be the culminating experience of your college career.
 
-* This milestone presentation will take place i nvarious venues, including the Project Workspace in order to demonstrate the actual Radio Telescope hardware and control electronics full assembled on the test stand in the Project Workspace, and will also be presented live on-line via Zoom.
+* This milestone presentation will take place in various venues, including the Project Workspace in order to demonstrate the actual Radio Telescope hardware and control electronics full assembled on the test stand in the Project Workspace, and will also be presented live on-line via Zoom.
 
 * You will also need to complete the [Final Self/Peer Evaluation](PeerEval-RadioTelescope-Sp21-final.pdf) form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp21-final.doc), fill it out, and submit in **PDF format via email to your instructors by the due date.**
 

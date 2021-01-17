@@ -17,9 +17,9 @@ All information about the course will be posted here.
 
 <!--
 
-* **May 10** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
+* **May 5** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
 
-* **May 10** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-final.pdf) are due Friday, 5-14-21, by Noon in PDF form via email to your instructors.
+* **May 5** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-final.pdf) are due Friday, 5-14-21, by Noon in PDF form via email to your instructors.
 
 * **Apr 28** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-5-21, by Noon in your Google Drive, for review and comment by your instructors.
 

@@ -8,7 +8,7 @@ title: "Assignments"
 This page lists the course assignments.
 
 # Radio Telescope Project
-All Presentations and Demos will be conducted in conjunction with the Radio Telescope Capstone teams
+All Presentations and Demos will be conducted in coordination with the Radio Telescope Engineering Capstone teams
 
 Assignment | Due
 ---------- | ---
@@ -19,7 +19,7 @@ Assignment | Due
 [Midterm Peer Evaluations](PeerEval-RadioTelescope-Sp21-midterm.pdf) | Saturday, 4-3-21 (by Noon in PDF form via email)
 [Assign05: Milestone 3](assign05.html) | Wednesday, 4-28-2021 (during class period via Zoom)
 [Assign06: Draft Technical Report](assign06.html) | Wednesday, 5-5-2021 (by Noon in your Google Drive)
-[Assign06: Milestone 4](assign06.html) | Monday, 5-10-2021 (12:45p to 2:45p via Zoom)
+[Assign06: Milestone 4](assign06.html) | Monday, 5-10-2021 (5:00p to 7:00p via Zoom)
 [Assign06: Final Technical Report and Team Posters](assign06.html) | Friday, 5-14-2021 (by Noon in PDF form in your Google Drive and via email)
 [Final Peer Evaluations](PeerEval-RadioTelescope-Sp21-final.pdf) | Friday, 5-14-2021 (by Noon in PDF form via email)
 
