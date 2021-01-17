@@ -12,15 +12,15 @@ CS 482 - Senior Software Project II<br>YCAS Radio Telescope Project
 
 **Instructors:**
 
-- [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours (KEC 101) TBD, or by arrangement
+- [David Babcock](http://faculty.ycp.edu/~dbabcock), <dbabcock@ycp.edu>, Office hours by appointment
 
-- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Teaching 100% remotely, Office hours by arrangement via Zoom
+- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, Teaching 100% remotely, Office hours by appointment via Zoom
 
 **Meeting times:**
 
-* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00p to 12:50p in KEC118, Project Workspace, and/or via Zoom
+* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00p to 12:50p in KEC118, Project Workspace, and/or via Zoom.  There is a chance that Milestone presentations *might* need to be shifted to evening hours, i.e., 5:00p to 7:00p.
 
-* Engineering Capstone II Status Reportd and MS Presentations/Demos: Fridays, 12:00p to 1:15p in KEC 128, Project Workspace, and/or via Zoom
+* Engineering Capstone II Status Reports and MS Presentations/Demos: Fridays, 12:00p to 1:15p in KEC 128, Project Workspace, and/or via Zoom
 
 * Integrated CS and Engineering Team Meetings: Mondays, 12:00p to 12:50p / 1:15p in KEC 118, KEC 128, Project Workspace, and/or via Zoom
 
@@ -33,12 +33,17 @@ This course is an elective course for Computer Science majors. It is a continuat
 
 This semester (Spring 2021) will be a continuation of the work that was accomplished by the five CS481 Radio Telescope teams from Fall 2021 (and the previous Radio Telescope teams), in coordination with the 2020-2021 Radio Telescope Capstone Engineering team.  The Radio Telescope teams will continue the design and development efforts for the various software components for the York County Astronomical Society (YCAS) Radio Telescope.  This project is being developed under the direction of the course instructor(s), members of the sponsoring organization (YCAS), recent York College Engineering and Computer Science graduates, and local industry partners.
 
-There are currently five teams of 1-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The five teams are:<br>
-	* **Team Jupiter:** Control Room Windows Application (C#, .NET, possibly Azure)
-	* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React, JavaScript, Java)
-	* **Team Mercury:** Back-End Server, Database,and AWS
-	* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity)
-	* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java, JavaScript)
+There are currently five teams of 1-4 people each, working in a coordinated fashion to develop the entire Radio Telescope software suite.  The five teams are:
+
+* **Team Jupiter:** Control Room Windows Application (C#, .NET, possibly Azure)
+
+* **Team Luna:** Cross-Platform (Android & iOS) Mobile Application (React, JavaScript, Java)
+
+* **Team Mercury:** Back-End Server, Database,and AWS
+
+* **Team Saturn:** Simulation, Visualization, and Virtualization (C#, .NET, Unity)
+
+* **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java, JavaScript)
 
 The standard user interface for the Radio Telescope is a web-based GUI.  The mobile application, website, and control room application interface with the Control Room application via the back-end server and database.  The simulation, visualization, and virtuliazation components, (and optionally, an operational scale model of the radio telescope) can all substitute for the physical radio telescope through a common Radio Telescope interface, and will also be used as educational tools by YCAS.
 
