@@ -19,6 +19,7 @@ The report should use the following general outline:
 -   Design
 -   Implementation
 -   Future Work
+-	References
 
 The **abstract** is a one or two paragraph synopsis of the problem your system addresses and the major features of your system. It should give the reader a concise summary of what they can expect to read about in the report.
 
@@ -31,6 +32,8 @@ The **design** section should contain an overview and a high-level discussion of
 The **implementation** section should describe the process you used to turn your design into a working system. Talk about interesting technical challenges you encountered, and how you overcame them. You should include all relevant technical information such as database schemas, mathematical formulas, etc. in this section. Use screenshots to illustrate various aspects of your implementation.
 
 The **future work** section should mention some possible ways that your system could be extended and improved in the future.
+
+The **references** section should list all of the references you placed throughout your document.
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
