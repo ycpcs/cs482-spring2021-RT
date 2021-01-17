@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 2: Weekly Journals and Status Updates"
 ---
 
-**Due: [See Assignment Schedule](../schedule.html)**
+Due: [See the Assignments page for due dates](../assign/index.html)
 
 These are a mix of **Team** and **Individual** assignments.
 

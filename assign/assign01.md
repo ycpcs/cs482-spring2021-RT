@@ -7,7 +7,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 # Your Task
 
-In this assignment you will propose the project you or your group will work on for the semester.  You will also set up a repository and issue tracker, and document the requirements you plan to address for [Milestone 1](assign02.html).
+In this assignment you will propose the project you or your group will work on for the semester.  You will also set up a repository and issue tracker, and document the requirements you plan to address for [Milestone 1](assign03.html).
 
 # Deliverables
 

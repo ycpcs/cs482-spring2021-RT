@@ -45,7 +45,7 @@ There are currently five teams of 1-4 people each, working in a coordinated fash
 
 * **Team Venus:** Front-End User Interface Website (Kotlin, Spring, Java, JavaScript)
 
-The standard user interface for the Radio Telescope is a web-based GUI.  The mobile application, website, and control room application interface with the Control Room application via the back-end server and database.  The simulation, visualization, and virtuliazation components, (and optionally, an operational scale model of the radio telescope) can all substitute for the physical radio telescope through a common Radio Telescope interface, and will also be used as educational tools by YCAS.
+The standard user interface for the Radio Telescope is a web-based GUI.  The mobile application, website, and control room application interface with the Control Room application via the back-end server and database.  The simulation, visualization, and virtualization components, (and optionally, an operational scale model of the radio telescope) can all substitute for the physical radio telescope through a common Radio Telescope interface, and will also be used as educational tools by YCAS.
 
 You will be working in close coordination with the Radio Telescope Engineering Capstone Team.  As such, the leader of each CS Senior Design team is required to attend the Engineering Capstone Team's status meetings and Milestone Presentations and Demos.  Some of the presentations and demos will likely be collaborative efforts betweeen the CS Senior Design Teams and the Engineering Capstone Team.
 
