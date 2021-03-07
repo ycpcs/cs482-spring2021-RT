@@ -27,11 +27,11 @@ All information about the course will be posted here.
 
 * **Mar 31** &mdash; Milestone 3 presentation/demo on Wednesday, 4-28-21, during normal class time via Zoom.
 
-* **Mar 31** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-midterm.pdf) are due Saturday, 4-3-21, by Noon in PDF form via email to your instructors.
-
-* **Mar 3** &mdash; Milestone 2 presentation/demo on Wednesday, 3-31-21, during normal class time, via Zoom.
-
 -->
+
+* **Mar 7** &mdash; Milestone 2 presentation/demo on Wednesday, 3-31-21, during normal class time, via Zoom.
+
+* **Mar 7** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-midterm.pdf) are due Thursday, 3-11-21, by Noon in PDF form via email to your instructors.
 
 * **Feb 1** &mdash; Milestone 1 presentation/demo on Wednesday, 3-3-21, during normal class time, via Zoom.
 
