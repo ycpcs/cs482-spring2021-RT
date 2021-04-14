@@ -27,7 +27,7 @@ All information about the course will be posted here.
 
 -->
 
-* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00 t0 7:00 via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
+* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00 to 7:00 via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
 * **Mar 21** &mdash; Milestone 3 presentation/demo on Wednesday, 4-28-21, during normal class time via Zoom. 
 
