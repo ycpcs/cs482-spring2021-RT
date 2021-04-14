@@ -27,7 +27,7 @@ All information about the course will be posted here.
 
 -->
 
-* **Mar 21** &mdash; **The Engineering and Computer Science Expo** is scheduled for Thursday, 4-29-21, and there will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.  As far as we know, this will be a virtual event, presented via Zoom.  **It is possible that Milestone 3 will be combined with this event.**
+* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00 t0 7:00 via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
 * **Mar 21** &mdash; Milestone 3 presentation/demo on Wednesday, 4-28-21, during normal class time via Zoom. 
 
