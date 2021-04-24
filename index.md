@@ -21,15 +21,15 @@ All information about the course will be posted here.
 
 * **May 5** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-final.pdf) are due Friday, 5-14-21, by Noon in PDF form via email to your instructors.
 
-* **Apr 28** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-10-21, from 5:00pm to 7:00pm via Zoom, in coordination with the Engineering Capstone team.  As far as we know, this will be a virtual event, presented via Zoom.
-
-* **Apr 28** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-5-21, by Noon in your Google Drive, for review and comment by your instructors.
-
 -->
 
-* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00 to 7:00 via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
+* **Apr 24** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-10-21, from 5:00pm to 7:00pm via Zoom, in coordination with the Engineering Capstone team.  As far as we know, this will be a virtual event, presented via Zoom.
 
-* **Mar 21** &mdash; Milestone 3 presentation/demo on Wednesday, 4-28-21, during normal class time via Zoom. 
+* **Apr 24** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-5-21, by Noon in your Google Drive, for review and comment by your instructors.
+
+* **Apr 24** &mdash; The Milestone 3 presentation/demo has been merged with the Engineering and Computer Science Rollout, which is scheduled for Friday, 4-30-21, from 5:00p to 6:30p via Zoom.  The expectations for the Rollout presentation have **NOT** changed - your Milestone 3 grade will be based on your Rollout presentation.
+
+* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00p to 6:30p via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
 * **Mar 21** &mdash; Todd Ullery (YCAS) will be taking over as the official CS instructor for the Radio Telescope project on Monday, 3-22-21.  Please direct all of your academic, scheduling, and grading inquiries to Todd.  Professor Hake will assume a technical consultant role as one of the YCAS clients.
 
